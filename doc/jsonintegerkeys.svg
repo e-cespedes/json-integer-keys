@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="1108" version="1.1" width="1396" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="118" cy="22" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
+<rect fill="#00ff" height="59" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="126" x="14" y="142"/>
+<rect fill="#ffffff" height="59" rx="16" ry="16" stroke="#000000" stroke-width="1" width="126" x="14" y="142"/>
+<rect fill="#ffffff" height="57" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="124" x="15" y="143"/>
+<text font-family="Dialog" font-size="12" x="67" y="155">
+init</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="14" x2="139" y1="165" y2="165"/>
+<text font-family="Dialog" font-size="12" x="16" y="177">
+entry /it_bebin</text>
+<polyline fill="none" points="117,29 117,142" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="110" x2="117" y1="130" y2="142"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="124" x2="117" y1="130" y2="142"/>
+<polyline fill="none" points="139,198 254,198" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="242" x2="254" y1="205" y2="198"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="242" x2="254" y1="191" y2="198"/>
+<text font-family="Dialog" font-size="12" x="164" y="193">
+start_me()</text>
+<rect fill="#00ff" height="64" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="113" x="622" y="166"/>
+<rect fill="#ffffff" height="64" rx="16" ry="16" stroke="#000000" stroke-width="1" width="113" x="622" y="166"/>
+<rect fill="#ffffff" height="62" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="111" x="623" y="167"/>
+<text font-family="Dialog" font-size="12" x="656" y="179">
+key-init</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="622" x2="734" y1="189" y2="189"/>
+<text font-family="Dialog" font-size="12" x="624" y="201">
+entry /it_next</text>
+<polyline fill="none" points="421,182 622,182" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="610" x2="622" y1="189" y2="182"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="610" x2="622" y1="175" y2="182"/>
+<text font-family="Dialog" font-size="12" x="505" y="177">
+ [it_/]</text>
+<rect fill="#00ff" height="44" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="152" x="934" y="302"/>
+<rect fill="#ffffff" height="44" rx="16" ry="16" stroke="#000000" stroke-width="1" width="152" x="934" y="302"/>
+<rect fill="#ffffff" height="42" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="150" x="935" y="303"/>
+<text font-family="Dialog" font-size="12" x="948" y="315">
+integer_key_pre_init</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="934" x2="1085" y1="325" y2="325"/>
+<text font-family="Dialog" font-size="12" x="936" y="337">
+exit /it_next()</text>
+<polyline fill="none" points="734,222 1006,222 1006,302" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="999" x2="1006" y1="290" y2="302"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1013" x2="1006" y1="290" y2="302"/>
+<text font-family="Dialog" font-size="12" x="894" y="217">
+ [it_\]</text>
+<ellipse cx="1370" cy="1082" fill="#000000" rx="12.0" ry="12.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="1370" cy="1082" fill="#ffffff" rx="11.0" ry="11.0" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="1369" cy="1081" fill="#000000" rx="7.5" ry="7.5" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="734,198 1286,198 1368,1070" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1359" x2="1368" y1="1058" y2="1070"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1373" x2="1368" y1="1057" y2="1070"/>
+<text font-family="Dialog" font-size="12" x="842" y="182">
+ [IT_EOS]</text>
+<rect fill="#00ff" height="59" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="152" x="942" y="454"/>
+<rect fill="#ffffff" height="59" rx="16" ry="16" stroke="#000000" stroke-width="1" width="152" x="942" y="454"/>
+<rect fill="#ffffff" height="57" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="150" x="943" y="455"/>
+<text font-family="Dialog" font-size="12" x="949" y="467">
+integer-key-candidate</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="942" x2="1093" y1="477" y2="477"/>
+<text font-family="Dialog" font-size="12" x="944" y="489">
+entry /it_next()</text>
+<polyline fill="none" points="1006,345 1006,454" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="999" x2="1006" y1="442" y2="454"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1013" x2="1006" y1="442" y2="454"/>
+<text font-family="Dialog" font-size="12" x="1008" y="404">
+ [it_"]</text>
+<rect fill="#00ff" height="44" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="126" x="606" y="862"/>
+<rect fill="#ffffff" height="44" rx="16" ry="16" stroke="#000000" stroke-width="1" width="126" x="606" y="862"/>
+<rect fill="#ffffff" height="42" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="124" x="607" y="863"/>
+<text font-family="Dialog" font-size="12" x="612" y="875">
+integer_key_found</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="606" x2="731" y1="885" y2="885"/>
+<text font-family="Dialog" font-size="12" x="608" y="897">
+exit /it_next()</text>
+<polyline fill="none" points="1014,769 1014,854" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1007" x2="1014" y1="842" y2="854"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1021" x2="1014" y1="842" y2="854"/>
+<text font-family="Dialog" font-size="12" x="1017" y="816">
+ [it_"]</text>
+<polyline fill="none" points="934,889 731,889" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="743" x2="731" y1="882" y2="889"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="743" x2="731" y1="896" y2="889"/>
+<text font-family="Dialog" font-size="12" x="785" y="841">
+ [it+1 == / </text>
+<text font-family="Dialog" font-size="12" x="817" y="856">
+||</text>
+<text font-family="Dialog" font-size="12" x="779" y="871">
+it+1 == EOS]</text>
+<rect fill="#00ff" height="44" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="139" x="270" y="854"/>
+<rect fill="#ffffff" height="44" rx="16" ry="16" stroke="#000000" stroke-width="1" width="139" x="270" y="854"/>
+<rect fill="#ffffff" height="42" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="137" x="271" y="855"/>
+<text font-family="Dialog" font-size="12" x="276" y="867">
+integer-key-updated</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="270" x2="408" y1="877" y2="877"/>
+<polyline fill="none" points="606,878 408,878" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="420" x2="408" y1="871" y2="878"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="420" x2="408" y1="885" y2="878"/>
+<text font-family="Dialog" font-size="12" x="440" y="873">
+ / udpate_integer_key</text>
+<polyline fill="none" points="294,854 294,229" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="301" x2="294" y1="241" y2="229"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="287" x2="294" y1="241" y2="229"/>
+<text font-family="Dialog" font-size="12" x="304" y="542">
+ / it_next()</text>
+<polyline fill="none" points="254,229 254,1078 1358,1081" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1345" x2="1358" y1="1087" y2="1081"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1346" x2="1358" y1="1073" y2="1081"/>
+<text font-family="Dialog" font-size="12" x="355" y="1066">
+ [it_EOS]</text>
+<rect fill="#00ff" height="52" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="102" x="462" y="366"/>
+<rect fill="#ffffff" height="52" rx="16" ry="16" stroke="#000000" stroke-width="1" width="102" x="462" y="366"/>
+<rect fill="#ffffff" height="50" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="100" x="463" y="367"/>
+<text font-family="Dialog" font-size="12" x="468" y="379">
+no-integer-key</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="462" x2="563" y1="389" y2="389"/>
+<polyline fill="none" points="622,229 563,366" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="561" x2="563" y1="352" y2="366"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="574" x2="563" y1="357" y2="366"/>
+<text font-family="Dialog" font-size="12" x="545" y="291">
+ [other]</text>
+<polyline fill="none" points="398,229 398,398 334,398 334,229" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="341" x2="334" y1="241" y2="229"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="327" x2="334" y1="241" y2="229"/>
+<text font-family="Dialog" font-size="12" x="313" y="421">
+ [it_other] / next_it</text>
+<polyline fill="none" points="1085,326 1286,326 1368,1070" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1359" x2="1368" y1="1058" y2="1070"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1373" x2="1368" y1="1057" y2="1070"/>
+<text font-family="Dialog" font-size="12" x="1319" y="599">
+ [IT_EOS]</text>
+<polyline fill="none" points="1093,478 1262,478 1367,1070" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1358" x2="1367" y1="1059" y2="1070"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1371" x2="1367" y1="1056" y2="1070"/>
+<text font-family="Dialog" font-size="12" x="1297" y="665">
+ [IT_EOS]</text>
+<polyline fill="none" points="982,726 982,512" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="989" x2="982" y1="524" y2="512"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="975" x2="982" y1="524" y2="512"/>
+<text font-family="Dialog" font-size="12" x="917" y="624">
+ [it_other]</text>
+<polyline fill="none" points="934,726 670,598 670,229" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="677" x2="670" y1="241" y2="229"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="663" x2="670" y1="241" y2="229"/>
+<text font-family="Dialog" font-size="12" x="684" y="541">
+ [it_/]</text>
+<rect fill="#00ff" height="44" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="141" x="934" y="854"/>
+<rect fill="#ffffff" height="44" rx="16" ry="16" stroke="#000000" stroke-width="1" width="141" x="934" y="854"/>
+<rect fill="#ffffff" height="42" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="139" x="935" y="855"/>
+<text font-family="Dialog" font-size="12" x="953" y="867">
+integer_key_end</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="934" x2="1074" y1="877" y2="877"/>
+<text font-family="Dialog" font-size="12" x="936" y="889">
+entry /it_next()</text>
+<rect fill="#00ff" height="44" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="141" x="934" y="726"/>
+<rect fill="#ffffff" height="44" rx="16" ry="16" stroke="#000000" stroke-width="1" width="141" x="934" y="726"/>
+<rect fill="#ffffff" height="42" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="139" x="935" y="727"/>
+<text font-family="Dialog" font-size="12" x="940" y="739">
+integer_key_pre_end</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="934" x2="1074" y1="749" y2="749"/>
+<text font-family="Dialog" font-size="12" x="936" y="761">
+entry /it_next</text>
+<polyline fill="none" points="1038,512 1038,726" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1031" x2="1038" y1="714" y2="726"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1045" x2="1038" y1="714" y2="726"/>
+<text font-family="Dialog" font-size="12" x="1040" y="624">
+ [it_\]</text>
+<rect fill="#00ff" height="64" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="168" x="254" y="166"/>
+<rect fill="#ffffff" height="64" rx="16" ry="16" stroke="#000000" stroke-width="1" width="168" x="254" y="166"/>
+<rect fill="#ffffff" height="62" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="166" x="255" y="167"/>
+<text font-family="Dialog" font-size="12" x="304" y="179">
+search-key</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="254" x2="421" y1="189" y2="189"/>
+<polyline fill="none" points="622,214 421,214" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="433" x2="421" y1="207" y2="214"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="433" x2="421" y1="221" y2="214"/>
+<text font-family="Dialog" font-size="12" x="491" y="209">
+ [it_other]</text>
+<polyline fill="none" points="934,854 638,614 638,229" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="645" x2="638" y1="241" y2="229"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="631" x2="638" y1="241" y2="229"/>
+<text font-family="Dialog" font-size="12" x="700" y="659">
+ [it_/]</text>
+<polyline fill="none" points="1074,750 1238,750 1365,1070" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1354" x2="1365" y1="1061" y2="1070"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1367" x2="1365" y1="1056" y2="1070"/>
+<text font-family="Dialog" font-size="12" x="1271" y="828">
+ [it_eos]</text>
+<polyline fill="none" points="942,478 710,478 710,229" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="717" x2="710" y1="241" y2="229"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="703" x2="710" y1="241" y2="229"/>
+<text font-family="Dialog" font-size="12" x="713" y="468">
+ [it_/]</text>
+<polyline fill="none" points="934,334 726,334 726,229" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="733" x2="726" y1="241" y2="229"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="719" x2="726" y1="241" y2="229"/>
+<text font-family="Dialog" font-size="12" x="763" y="329">
+ [it_/]</text>
+<polyline fill="none" points="462,366 421,229" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="431" x2="421" y1="238" y2="229"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="417" x2="421" y1="242" y2="229"/>
+<text font-family="Dialog" font-size="12" x="445" y="297">
+ / it_next()</text>
+</svg>
